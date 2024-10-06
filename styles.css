@@ -1,7 +1,7 @@
 /* Sidebar styling */
 .sidebar {
     height: 100%; /* Full height */
-    width: 50%; /* Start with zero width */
+    width: 0; /* Start with zero width */
     position: fixed; /* Stay in place */
     top: 0;
     left: 0;
